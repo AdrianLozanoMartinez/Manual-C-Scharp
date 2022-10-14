@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\bin\Debug\net6.0\Console.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\bin\Debug\net6.0\Console.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\bin\Debug\net6.0\Console.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\bin\Debug\net6.0\Console.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\bin\Debug\net6.0\Console.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\refint\Console.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\Console.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\Console\obj\Debug\net6.0\ref\Console.dll

@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\bin\Debug\net6.0\OperadoresAritmetico.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\bin\Debug\net6.0\OperadoresAritmetico.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\bin\Debug\net6.0\OperadoresAritmetico.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\bin\Debug\net6.0\OperadoresAritmetico.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\bin\Debug\net6.0\OperadoresAritmetico.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\refint\OperadoresAritmetico.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\OperadoresAritmetico.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresAritmetico\obj\Debug\net6.0\ref\OperadoresAritmetico.dll

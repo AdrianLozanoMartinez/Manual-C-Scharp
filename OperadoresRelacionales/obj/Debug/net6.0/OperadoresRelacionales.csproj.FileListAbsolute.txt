@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\bin\Debug\net6.0\OperadoresRelacionales.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\bin\Debug\net6.0\OperadoresRelacionales.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\bin\Debug\net6.0\OperadoresRelacionales.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\bin\Debug\net6.0\OperadoresRelacionales.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\bin\Debug\net6.0\OperadoresRelacionales.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\refint\OperadoresRelacionales.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\OperadoresRelacionales.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\OperadoresRelacionales\obj\Debug\net6.0\ref\OperadoresRelacionales.dll

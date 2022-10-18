@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\bin\Debug\net6.0\VariablesTiposConvertir.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\bin\Debug\net6.0\VariablesTiposConvertir.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\bin\Debug\net6.0\VariablesTiposConvertir.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\bin\Debug\net6.0\VariablesTiposConvertir.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\bin\Debug\net6.0\VariablesTiposConvertir.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\refint\VariablesTiposConvertir.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\VariablesTiposConvertir.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposConvertir\obj\Debug\net6.0\ref\VariablesTiposConvertir.dll

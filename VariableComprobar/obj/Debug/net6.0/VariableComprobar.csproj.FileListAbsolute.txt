@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\bin\Debug\net6.0\VariableComprobar.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\bin\Debug\net6.0\VariableComprobar.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\bin\Debug\net6.0\VariableComprobar.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\bin\Debug\net6.0\VariableComprobar.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\bin\Debug\net6.0\VariableComprobar.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\refint\VariableComprobar.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\VariableComprobar.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableComprobar\obj\Debug\net6.0\ref\VariableComprobar.dll

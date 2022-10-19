@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\bin\Debug\net6.0\VariablesTiposInt.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\bin\Debug\net6.0\VariablesTiposInt.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\bin\Debug\net6.0\VariablesTiposInt.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\bin\Debug\net6.0\VariablesTiposInt.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\bin\Debug\net6.0\VariablesTiposInt.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\refint\VariablesTiposInt.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\VariablesTiposInt.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariablesTiposInt\obj\Debug\net6.0\ref\VariablesTiposInt.dll

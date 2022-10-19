@@ -1,6 +1,5 @@
-﻿/* Instalar SDK    ->    https://dotnet.microsoft.com/en-us/download/dotnet/6.0
- 
- * Accedemos PowerShell para desarrolladores    ->    Ctrl + ñ
+﻿/* 
+ * Debemos acceder al PowerShell para desarrolladores    ->    Ctrl + ñ
  
  * El proyecto debe estar en    ->    C:\Users\NombreUsuario\source\repos
     - dotnet --version   ->   Sale la versión. 6.0.401

@@ -25,15 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableComprobar", "Variab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nombres", "Nombres\Nombres.csproj", "{6303B889-2EAA-42C5-ABEB-8AB8A76D2678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmetico", "OperadoresAritmetico\OperadoresAritmetico.csproj", "{FD935739-D6EC-4984-A9F5-A0832302F3F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmetico", "OperadoresAritmetico\OperadoresAritmetico.csproj", "{FD935739-D6EC-4984-A9F5-A0832302F3F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{7E6CDF02-C552-4750-AFCD-FD7A224DF1FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{7E6CDF02-C552-4750-AFCD-FD7A224DF1FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAsignacion", "OperadoresAsignacion\OperadoresAsignacion.csproj", "{34719D97-04DC-463A-8ADE-6F16F77182FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAsignacion", "OperadoresAsignacion\OperadoresAsignacion.csproj", "{34719D97-04DC-463A-8ADE-6F16F77182FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresIncrementoDecremento", "OperadoresIncrementoDecremento\OperadoresIncrementoDecremento.csproj", "{A68A2661-688A-4319-A6DD-539C09970D01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresIncrementoDecremento", "OperadoresIncrementoDecremento\OperadoresIncrementoDecremento.csproj", "{A68A2661-688A-4319-A6DD-539C09970D01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionales", "OperadoresRelacionales\OperadoresRelacionales.csproj", "{B022EE3F-8F59-4BDF-A870-889386DD6D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionales", "OperadoresRelacionales\OperadoresRelacionales.csproj", "{B022EE3F-8F59-4BDF-A870-889386DD6D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstalacionSDKGuiaMsdn", "InstalacionSDKGuiaMsdn\InstalacionSDKGuiaMsdn.csproj", "{94A3D560-8CA1-412D-887B-E0F794D59CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesTiposInt", "VariablesTiposInt\VariablesTiposInt.csproj", "{1CBE28F6-42BE-42F2-A483-7917002506CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{B022EE3F-8F59-4BDF-A870-889386DD6D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B022EE3F-8F59-4BDF-A870-889386DD6D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B022EE3F-8F59-4BDF-A870-889386DD6D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A3D560-8CA1-412D-887B-E0F794D59CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A3D560-8CA1-412D-887B-E0F794D59CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A3D560-8CA1-412D-887B-E0F794D59CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A3D560-8CA1-412D-887B-E0F794D59CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBE28F6-42BE-42F2-A483-7917002506CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBE28F6-42BE-42F2-A483-7917002506CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBE28F6-42BE-42F2-A483-7917002506CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBE28F6-42BE-42F2-A483-7917002506CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

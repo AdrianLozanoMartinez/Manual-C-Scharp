@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConvertir\\VariablesTiposConvertir.csproj",
-      "projectName": "VariablesTiposConvertir",
-      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConvertir\\VariablesTiposConvertir.csproj",
+      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConvertir\\VariablesConvertir.csproj",
+      "projectName": "VariablesConvertir",
+      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConvertir\\VariablesConvertir.csproj",
       "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
       "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConvertir\\obj\\",
       "projectStyle": "PackageReference",

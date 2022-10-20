@@ -1,4 +1,4 @@
-﻿/*
+﻿                                                                                                                                                                                /*
   * A decimal
 
     - Int -> Variable
@@ -17,7 +17,7 @@
         Console.WriteLine($"Sin transformar, f: {f}");                  // vale 1.5555
         Console.WriteLine($"Transformado, myDouble: {myDouble} \n");    // vale 1,5555000305175781
                                                                                                                                                                 /*
-    - "Int"/Número -> Convert.ToDouble(número/"texto") o int.Parse(número/"texto")
+    - Convert.ToDouble(número/"texto") o int.Parse(número/"texto")
 
         _Ejemplos                                                                                                                                                               */
 
@@ -37,7 +37,7 @@
 
  * A entero   
 
-    - "Int"/Decimal -> Convert.ToInt32(númeroDecimal/"texto") o int.Parse(número/"texto")    
+    - Convert.ToInt32(númeroDecimal/"texto") o int.Parse(número/"texto")    
 
         _Ejemplos
                                                                                                                                                                                                 */
@@ -60,7 +60,7 @@
 
  * A texto   
 
-    - Int/Decimal -> Convert.ToInt32(número/"texto") o int.Parse(número/"texto")    
+    - Convert.ToInt32(número/"texto") o int.Parse(número/"texto")    
 
         _Ejemplos
                                                                                                                                                                                                 */
@@ -78,13 +78,47 @@
                                                                                                                                                                                                     /*
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
- *A ASCII
+ * A ASCII - https://elcodigoascii.com.ar/
 
-    - Int / Decimal->Convert.ToInt32(número / "texto") o int.Parse(número / "texto")
+    - (int)variable/'letra/número/símbolo';
 
-        _Ejemplos                                                                                                                                                                                              */
+        _Ejemplo                                                                                                                                                                                             */
+        char letra = 's';
+        int posicion = (int)letra;
+        Console.WriteLine("La 's' en código ASCII es: " + posicion + '\n'); //Sale 115 que es la posición de la s en la tabla ASCII.
+                                                                            //Se utiliza para saber si es mayúscula, minúscula..mirando
+                                                                            //si está entre un número y otro. Ej: 97 al 122 sería las minúsculas.
+                                                                                                                                                                                                    /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+ * De ASCII - https://elcodigoascii.com.ar/                                                                                                                        /*
 
+    - Convert.ToChar(númeroASCII);   
+                                                                                                                        
+        _Ejemplos
+        
+        //Mostrar                                                                                                                                                                                             */
+        Console.WriteLine("El número 63 en ASCII es: " + Convert.ToChar(63)); //Sale ?
+                                                                                                                                                                           /*    
+        //Mostrar sumando +1 al número ASCII, por lo que cambia al siguiente elemento                                                                                                      */
+        char a = 'T';
+        a = Convert.ToChar(a + 1);  //T + 1 -> En ASCII es 100 + 1. 100=T y 101 es U
+        Console.WriteLine("Si sumamos + 1 a la T que es 100 en ASCII daría 101 y eso equivale a: " + a); //Sale U
+        
+                                                                                                                                                                    /*    
+    - (char)número;          
+        _Ejemplo:                                                                                                                                                                             */
+        Console.WriteLine("El número 3 en ASCII es: " + (char)3 + '\n'); //Sale un corazón
 
+                                                                                                                                                                                                    /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ * A Mayúscula/Minúscula
+
+    - variable.ToUpper(); -> A mayúscula
+
+       _Ejemplo                                                                                                                                                                 */
+      string variable = "hola";
+      Console.WriteLine("Pasamos de minúscula a mayúscuma: " + variable.ToUpper() + '\n'); //Sale HOLA
 
 

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConstantes\\VariablesTiposConstantes.csproj",
-      "projectName": "VariablesTiposConstantes",
-      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConstantes\\VariablesTiposConstantes.csproj",
+      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConstantes\\VariablesConstantes.csproj",
+      "projectName": "VariablesConstantes",
+      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConstantes\\VariablesConstantes.csproj",
       "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
       "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\VariablesTiposConstantes\\obj\\",
       "projectStyle": "PackageReference",

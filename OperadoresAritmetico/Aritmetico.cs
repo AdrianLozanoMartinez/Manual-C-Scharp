@@ -16,11 +16,16 @@
                 _Ejemplo:                                                                                                                                                          */
                 double variable3 = 5 / 2.0; 
                 Console.WriteLine("Al hacer 5/2.0 nos da la parte decimal al usar .0: " + variable3); // Sale 2.5
-                                                                                                                                                                        /*
+                       
+                                                                                                                                                                                   /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                                                                                                                                                                                            
         - % -> Da el resto
             _Ejemplo                                                                                                                                                                                */
-            Console.WriteLine("Resto: " + 6 % 2);  //Da 0
-                                                                                                                                                                                                    /*
+            Console.WriteLine("Resto: " + 6 % 2);  //Da 0                
+                                                                                                                                                                                   /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                                                                                                                                                                                                
         - Mostrar texto y operación al instante. En la suma es la única obligada en hacerlo de este modo
             _Ejemplo                                                                                                                                                                                */
             Console.WriteLine("Suma: " + (6 + 2));  //Da 8

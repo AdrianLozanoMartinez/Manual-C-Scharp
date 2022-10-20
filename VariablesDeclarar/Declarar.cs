@@ -17,10 +17,11 @@
             int h = 0, m = 2;
             Console.WriteLine($"int h = 0, m = 2; Muestra: {h} y {m}");                                                                                                /*
                                                                                                                                                                      
-       
+                                                                                                                                                                                   
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>       
 
     * Nulo
         - null -> No está vacío, ni tiene nada de información, ni espacio. No se operar con él
             _Ejemplo                                                                                                                                                                       */
-            string? variableNull = null;
+string? variableNull = null;
             Console.WriteLine($"Muestra el valor nulo: {variableNull}");

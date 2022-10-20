@@ -1,14 +1,14 @@
-﻿                                                                                                                                                                                /*
+﻿                                                                                                                                                     /*
  * Mostrar:
     - Sin salto de línea 
     _Ejemplo                                                                                                                                        */
     Console.Write("Sin salto de línea");                                                                                                                            /*
-                                                                                                                                                                     * 
+                                                                                                                                                                     
     - Con salto de línea 
     _Ejemplo                                                                                                                                        */
-    Console.WriteLine("Con salto de línea");                                                                                                                    /*
-
-
+    Console.WriteLine("Con salto de línea");                                                                                                                    
+                                                                                                                                                                                   /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
  * Introducir datos:
     -  Usos
@@ -17,14 +17,16 @@
         > Se quita al pulsar enter
         > Coge String. Si queremos números hay que transformarlos
     _Ejemplo                                                                                                                                                                */
-    Console.WriteLine("Introduce por teclado");
+Console.WriteLine("Introduce por teclado");
     Console.ReadLine();  //Introduce por teclado
-                                                                                                                                                                                                    /*
 
-    - Tipos
-        > Separado del console mostrar:
-    _Ejemplo                                                                                                                                                                                */
-    Console.WriteLine("Introduce por teclado");    
+                                                                                                                                                                                                    /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+- Tipos
+> Separado del console mostrar:
+_Ejemplo                                                                                                                                                                                */
+Console.WriteLine("Introduce por teclado");    
     Console.ReadLine(); // Introduce por teclado
     Console.ReadLine(); // Mostrar lo introducido y se quita al pulsar enter
                                                                                                                                                             /*

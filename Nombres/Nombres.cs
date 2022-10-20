@@ -11,19 +11,22 @@
         - No empezar con número
 
         - Puede empezar con signos
-
+                                                                                                                      
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
     * Métodos, clases, namespaces, propiedades:
         - PascalCase / UpperCamelCase -> Empieza mayúscula y siguiente empieza en mayúscula 
              _Ejemplo
              > Coche Rojo -> CocheRojo 
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
     * Métodos(Parámetros);
         - Replicar métodos
             > Si -> Si tienen diferentes parámetros:     Main() y Main(a)
-            > No -> Si tienen mismos parámetros:         Main() y Main()
+            > No -> Si tienen mismos parámetros:         Main() y Main()                      
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
     * Constante:
         - snake_case -> Más recomendable:

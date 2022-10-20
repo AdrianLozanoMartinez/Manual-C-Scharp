@@ -6,6 +6,8 @@
                     –System.Windows.Forms
                     –System.Drawing
         
+                                                                                                                                                                                   
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
     * Uso:
@@ -13,7 +15,7 @@
         - Fuera de la clase:
 
         _Ejemplo
-*/
+                                                                                                                                                                                                                */
             using System;   // Se pone ARRIBA del todo, si se pone abajo o encima una línea da error
             class HolaMundo
             {
@@ -23,12 +25,11 @@
                 }
             }
 
-/*
-
+                                                                                                                                                                                   /*
           - Dentro de la clase:
 
           _Ejemplo
-*/
+                                                                                                                                                                                                                        */
             class HolaMundo2
             {
                 static void Main()

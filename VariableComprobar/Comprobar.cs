@@ -1,7 +1,9 @@
 ﻿/*
  * Comprobar si tiene un valor
     - variable.HasValue
-        _Ejemplos                                                                                                                                                    */
+
+        _Ejemplos       
+                                                                                                                                                                                */
         int? i = 0;                     //Valor 0
         Console.WriteLine(i.HasValue);  //Muestra True -> porque SI tiene VALOR la variable
 

@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\bin\Debug\net6.0\VariablesTiposDoubleMetodo.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\bin\Debug\net6.0\VariablesTiposDoubleMetodo.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\bin\Debug\net6.0\VariablesTiposDoubleMetodo.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\bin\Debug\net6.0\VariablesTiposDoubleMetodo.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\bin\Debug\net6.0\VariablesTiposDoubleMetodo.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\refint\VariablesTiposDoubleMetodo.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\VariablesTiposDoubleMetodo.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\VariableTiposDoubleMetodo\obj\Debug\net6.0\ref\VariablesTiposDoubleMetodo.dll

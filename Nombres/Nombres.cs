@@ -1,4 +1,6 @@
 ﻿/*
+ * Namespaces -> nombre de la carpeta
+ 
  * Variables:
         - camelCase -> Empieza minúscula y siguiente empieza en mayúscula 
             _Ejemplo

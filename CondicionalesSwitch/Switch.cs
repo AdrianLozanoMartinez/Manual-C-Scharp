@@ -15,6 +15,7 @@
             código
             break;
       }
+
     _Ejemplo                                                                                                                            */
     string day = "LUNES";
 
@@ -34,6 +35,8 @@
             Console.WriteLine("Otro día");
             break;
     }                                                                                                                                           /*
+  
+
     _Ejemplo2                                                                                                                           */
     int day2 = 3;
 

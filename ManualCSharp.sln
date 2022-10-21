@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "Console\Console.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesTipos", "TiposVariable\VariablesTipos.csproj", "{5444AE0D-7CE7-4037-B5D0-B3A835E4EDED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesTiposConvertir", "VariablesTiposConvertir\VariablesTiposConvertir.csproj", "{D48938CC-8666-481E-8FB1-F54BA61B1B44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesConvertir", "VariablesTiposConvertir\VariablesConvertir.csproj", "{D48938CC-8666-481E-8FB1-F54BA61B1B44}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesTiposConstantes", "VariablesTiposConstantes\VariablesTiposConstantes.csproj", "{EFB464A3-134D-42B2-8854-F1FB4F4BF05B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesConstantes", "VariablesTiposConstantes\VariablesConstantes.csproj", "{EFB464A3-134D-42B2-8854-F1FB4F4BF05B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesDeclarar", "VariablesDeclarar\VariablesDeclarar.csproj", "{8F75EDCC-18E5-4A89-97C3-D4E1B20163C0}"
 EndProject
@@ -38,6 +38,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstalacionSDKGuiaMsdn", "InstalacionSDKGuiaMsdn\InstalacionSDKGuiaMsdn.csproj", "{94A3D560-8CA1-412D-887B-E0F794D59CCA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecuenciasEscape", "SecuenciasEscape\SecuenciasEscape.csproj", "{416E0BEC-5DDC-4317-9EFF-CE14D4D202E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesMetodos", "VariablesTiposMetodos\VariablesMetodos.csproj", "{1AFAEECF-4DBA-438F-9F7A-43BC4627D36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesFormatos", "VariablesFormatos\VariablesFormatos.csproj", "{AF6EE2AA-3155-4D21-AEE3-5553D17E6F38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{416E0BEC-5DDC-4317-9EFF-CE14D4D202E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{416E0BEC-5DDC-4317-9EFF-CE14D4D202E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{416E0BEC-5DDC-4317-9EFF-CE14D4D202E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFAEECF-4DBA-438F-9F7A-43BC4627D36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFAEECF-4DBA-438F-9F7A-43BC4627D36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFAEECF-4DBA-438F-9F7A-43BC4627D36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFAEECF-4DBA-438F-9F7A-43BC4627D36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6EE2AA-3155-4D21-AEE3-5553D17E6F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6EE2AA-3155-4D21-AEE3-5553D17E6F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6EE2AA-3155-4D21-AEE3-5553D17E6F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6EE2AA-3155-4D21-AEE3-5553D17E6F38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

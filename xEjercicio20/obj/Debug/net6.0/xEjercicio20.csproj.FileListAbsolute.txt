@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\bin\Debug\net6.0\xEjercicio20.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\bin\Debug\net6.0\xEjercicio20.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\bin\Debug\net6.0\xEjercicio20.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\bin\Debug\net6.0\xEjercicio20.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\bin\Debug\net6.0\xEjercicio20.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\refint\xEjercicio20.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\xEjercicio20.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio20\obj\Debug\net6.0\ref\xEjercicio20.dll

@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\bin\Debug\net6.0\xEjercicio24.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\bin\Debug\net6.0\xEjercicio24.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\bin\Debug\net6.0\xEjercicio24.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\bin\Debug\net6.0\xEjercicio24.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\bin\Debug\net6.0\xEjercicio24.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\refint\xEjercicio24.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\xEjercicio24.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio24\obj\Debug\net6.0\ref\xEjercicio24.dll

@@ -21,7 +21,7 @@
                                                       //parches como throw o en el mejor de los casos try y catch
             }
         }
-}                                                                                                                                                   /*
+}                                                                                                                                                /*
  
 
  * Try, catch(Exception) y finally
@@ -60,10 +60,10 @@
             finally  
             {
                 Console.WriteLine($"Estas en la pagina: {page}");
-                /*Estas en la pagina: No hay internet -> Si da error, es decir si no quitamos el throw o si da 0.5
-                  Estas en la pagina: localhost/dinosaurio.com -> Si no da error*/
-            }
-            Console.ReadLine();
+            /*Estas en la pagina: localhost/dinosaurio.com -> Si da error, es decir si no quitamos el throw o si da 0.5
+              Estas en la pagina:  google.com -> Si no da error*/
+        }
+        Console.ReadLine();
         }
     }                                                                                                                                                                           /*
     _Ejemplo2                                                                                                                                                                       */

@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\bin\Debug\net6.0\xEjercicio22.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\bin\Debug\net6.0\xEjercicio22.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\bin\Debug\net6.0\xEjercicio22.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\bin\Debug\net6.0\xEjercicio22.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\bin\Debug\net6.0\xEjercicio22.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\refint\xEjercicio22.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\xEjercicio22.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xEjercicio22\obj\Debug\net6.0\ref\xEjercicio22.dll

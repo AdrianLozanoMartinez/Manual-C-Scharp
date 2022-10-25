@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\bin\Debug\net6.0\xPruebasAnotaciones.exe
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\bin\Debug\net6.0\xPruebasAnotaciones.deps.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\bin\Debug\net6.0\xPruebasAnotaciones.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\bin\Debug\net6.0\xPruebasAnotaciones.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\bin\Debug\net6.0\xPruebasAnotaciones.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\refint\xPruebasAnotaciones.dll
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.pdb
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\xPruebasAnotaciones.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Proyectos\ManualCSharp\xPruebasAnotaciones\obj\Debug\net6.0\ref\xPruebasAnotaciones.dll

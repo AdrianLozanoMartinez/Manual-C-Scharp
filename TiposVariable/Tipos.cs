@@ -26,13 +26,4 @@
                     char variable <-> System.Char variable;
 
         - string -> Cadena de carácter "texto". Único que admite nulo (null). Alias de System.String 
-                    string variable -> System.String variable;
-
-    * Array:
-        - x   -> x 
-                    x;
-
-        - x -> x 
-                    x;
-
-*/
+                    string variable -> System.String variable;                                                                                                          */

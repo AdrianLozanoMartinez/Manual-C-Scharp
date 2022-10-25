@@ -125,6 +125,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xPruebasAnotaciones", "xPru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicioExperimento", "xEjercicioExperimento\xEjercicioExperimento.csproj", "{8E9F235A-0B56-41B6-9D1F-EE834B2829C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosPasarValor", "MetodosPasarValor\MetodosPasarValor.csproj", "{192658A9-3BB4-4A1A-9E2D-63D25D3E9A87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{8E9F235A-0B56-41B6-9D1F-EE834B2829C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9F235A-0B56-41B6-9D1F-EE834B2829C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E9F235A-0B56-41B6-9D1F-EE834B2829C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192658A9-3BB4-4A1A-9E2D-63D25D3E9A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192658A9-3BB4-4A1A-9E2D-63D25D3E9A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192658A9-3BB4-4A1A-9E2D-63D25D3E9A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192658A9-3BB4-4A1A-9E2D-63D25D3E9A87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

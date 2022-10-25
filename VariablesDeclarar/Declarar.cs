@@ -25,3 +25,20 @@
             _Ejemplo                                                                                                                                                                       */
 string? variableNull = null;
             Console.WriteLine($"Muestra el valor nulo: {variableNull}");
+
+                                                                                                                                                               /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+    * @
+        - Junto a palabra reservada para poder usarla
+        _Ejemplo
+        @base                                                                                                                                              */
+
+                                                                                                                                                            /*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+    * Global/Local
+        - Global -> No necesita ser definida. Tiene valor por defecto: int 0, string null (nulo) y boolean false
+        - Local -> Si necesita ser definida
+                                                                                                                                                     */
+

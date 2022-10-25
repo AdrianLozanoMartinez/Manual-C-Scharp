@@ -1,36 +1,4 @@
-﻿/*
-
-namespace xPruebasAnotaciones
-{
-    internal class Program
-    {
-        static void Main()
-        {
-            int fact = Factorial(5);
-
-            Console.WriteLine(fact);
-        }
-        static int Factorial(int x)
-        {
-            int fact;
-
-            if(x <= 1)
-                fact = 1;
-            else
-                fact = x * Factorial(x - 1);
-
-            return fact;
-        }
-    }
-}
-*/
-
-
-
-
-
-
-//char[] a = null; da error
+﻿//char[] a = null; da error
 
 //char[] a = new char[] { } es vacío
 

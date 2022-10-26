@@ -39,9 +39,6 @@
                 plus = Math.Sqrt(plus);  //Raíz cuadrada
 
                 Console.WriteLine($"La raíz cuadrada de la suma de los cuadrados / número introducido \nResultado: {plus} \n");  //Resultado de la raíz cuadrada de la suma de los cuadrados / número introducidos
-          
-
-
 
             Console.WriteLine("Pulse enter para salir");
         }

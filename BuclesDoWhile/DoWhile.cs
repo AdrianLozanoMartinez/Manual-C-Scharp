@@ -81,3 +81,18 @@
 
         if (hours >= 24) hours = 0; //Si las horas llega a 24h se vuelve su valor a 0 para que se reinicie el reloj
     }
+
+    /*
+     * Array
+        _Ejemplo                                                                                                                                    */
+            string[] nombres = new string[] { "vero", "paul" };
+
+            int count = 0;
+            while (count < nombres.Length)
+            {
+                    string nombre = nombres[count]; //[i] coge las posiciones del array nombre
+                    Console.WriteLine(nombre);
+                    count++;
+            }
+     
+    

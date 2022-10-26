@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace xEjercicio21
-{
+{// TENGO QUE MODIFICAR CON LO NUEVO DE ENUM.PARSE -> pasar de un string/num a enumerado
     internal class Program
     {
 
@@ -33,3 +33,5 @@ namespace xEjercicio21
         }
     }
 }
+
+/*enum.parse -> hacerlo con ese método, de mi forma no está cogiendo,solo comparando con string*/

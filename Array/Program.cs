@@ -35,3 +35,35 @@
              Console.WriteLine(variable[3]); //imprime a 
              Console.WriteLine(variable[2]); //imprime vacío, si comparamos con nulo sale false
              Console.WriteLine(variable[2].ToString() == null); //imprime vacío, si comparamos con nulo sale false
+                                                                                                                                                                           /*
+        - Bucles
+            > For 
+                _Ejemplo                                                                                                                            */
+                string[] nombres = new string[] { "vero", "paul" };
+                for (int i = 0; i < nombres.Length; i++)
+                {
+                     string nombre = nombres[i]; //[i] coge las posiciones del array nombre
+                     Console.WriteLine(nombre);
+                }
+                                                                                                                                                            /*
+            > While
+                _Ejemplo                                                                                                                                    */
+                int count = 0;
+                while (count < nombres.Length)
+                {
+                     string nombre = nombres[count]; //[i] coge las posiciones del array nombre
+                     Console.WriteLine(nombre);
+                     count++;
+                }
+                                                                                                                                                    /*
+            > Foreach
+                _Ejemplo                                                                                                                                 */
+                foreach (string nombre in nombres)  //se puede poner char pero no string, se puede pone cadena de texto 
+                {
+                    Console.WriteLine(nombre);
+                }
+
+
+                                                                                                                                                    */
+
+                                                                                                                                                                               */

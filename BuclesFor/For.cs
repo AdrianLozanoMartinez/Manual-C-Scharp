@@ -85,8 +85,17 @@
             Condición //Poner if para poner la hora que vuelva a 0 cuando llegue a 24h, para que nunca acabe
         }                                                                                                     
 
-                                                                                                                                                                  */
+    * Array
+        _Ejemplo                                                                                                                            */
+        string[] nombres = new string[] { "vero", "paul" };
 
+        for (int i = 0; i < nombres.Length; i++)
+        {
+                string nombre = nombres[i]; //[i] coge las posiciones del array nombre
+                Console.WriteLine(nombre);
+        }
+                                                                                                                                                            /*
 
-
-
+                                                                                                                                                    /*
+        
+    

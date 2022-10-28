@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Array\\VariablesArray.csproj": {}
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Array\\VariablesArray.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Array\\VariablesArray.csproj": {
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Array\\VariablesArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Array\\VariablesArray.csproj",
+        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Array\\VariablesArray.csproj",
         "projectName": "VariablesArray",
-        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Array\\VariablesArray.csproj",
+        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Array\\VariablesArray.csproj",
         "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Array\\obj\\",
+        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

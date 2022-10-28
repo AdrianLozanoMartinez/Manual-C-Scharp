@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\bin\Debug\net6.0\VariablesEnumerados.exe
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\bin\Debug\net6.0\VariablesEnumerados.deps.json
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\bin\Debug\net6.0\VariablesEnumerados.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\bin\Debug\net6.0\VariablesEnumerados.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\bin\Debug\net6.0\VariablesEnumerados.pdb
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\refint\VariablesEnumerados.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.pdb
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\VariablesEnumerados.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\Enumerados\obj\Debug\net6.0\ref\VariablesEnumerados.dll

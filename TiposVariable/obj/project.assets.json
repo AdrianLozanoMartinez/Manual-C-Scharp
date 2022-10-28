@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\TiposVariable\\VariablesTipos.csproj",
+      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\TiposVariable\\VariablesTipos.csproj",
       "projectName": "VariablesTipos",
-      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\TiposVariable\\VariablesTipos.csproj",
+      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\TiposVariable\\VariablesTipos.csproj",
       "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\TiposVariable\\obj\\",
+      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\TiposVariable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

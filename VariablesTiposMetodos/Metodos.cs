@@ -21,3 +21,6 @@
              _Ejemplo                                                                                                                      */
              string variable = "23.4".Replace(".", ",");
              Console.WriteLine(variable); //Sale 23,4
+
+
+//split quita espacio si ponemos " " -> confirmar

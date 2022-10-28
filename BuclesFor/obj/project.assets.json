@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\BuclesFor\\BuclesFor.csproj",
+      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\BuclesFor\\BuclesFor.csproj",
       "projectName": "BuclesFor",
-      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\BuclesFor\\BuclesFor.csproj",
+      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\BuclesFor\\BuclesFor.csproj",
       "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\BuclesFor\\obj\\",
+      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\BuclesFor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

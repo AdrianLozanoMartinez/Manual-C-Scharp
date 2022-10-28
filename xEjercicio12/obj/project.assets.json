@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio12\\xEjercicio12.csproj",
+      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio12\\xEjercicio12.csproj",
       "projectName": "xEjercicio12",
-      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio12\\xEjercicio12.csproj",
+      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio12\\xEjercicio12.csproj",
       "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio12\\obj\\",
+      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

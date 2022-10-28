@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Condicionales\\Condicionales.csproj",
+      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Condicionales\\Condicionales.csproj",
       "projectName": "Condicionales",
-      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Condicionales\\Condicionales.csproj",
+      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Condicionales\\Condicionales.csproj",
       "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\Condicionales\\obj\\",
+      "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\Condicionales\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

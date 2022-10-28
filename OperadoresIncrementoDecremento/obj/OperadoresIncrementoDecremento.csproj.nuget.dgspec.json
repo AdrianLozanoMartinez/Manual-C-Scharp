@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj": {}
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj": {
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj",
+        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj",
         "projectName": "OperadoresIncrementoDecremento",
-        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj",
+        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresIncrementoDecremento\\OperadoresIncrementoDecremento.csproj",
         "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresIncrementoDecremento\\obj\\",
+        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresIncrementoDecremento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

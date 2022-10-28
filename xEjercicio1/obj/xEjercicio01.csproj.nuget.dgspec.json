@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj": {}
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj": {
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj",
+        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj",
         "projectName": "xEjercicio01",
-        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj",
+        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio1\\xEjercicio01.csproj",
         "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\xEjercicio1\\obj\\",
+        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

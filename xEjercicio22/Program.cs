@@ -24,8 +24,13 @@
                 Lamp On = Lamp.ON;
                 Lamp Off = Lamp.OFF;
 
-                String on = On.ToString().ToLower();
+                //Una forma
+                //String on = On.ToString().ToLower();
                 String off = Off.ToString().ToLower();
+
+                //Otra forma
+                string on = Convert.ToString((Lamp)On).ToLower();
+                //string off = Convert.ToString((Lamp)Off).ToLower();
 
                 if (take == on && take2 == off)
                 {

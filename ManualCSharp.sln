@@ -125,13 +125,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xPruebasAnotaciones", "xPru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicioExperimento", "xEjercicioExperimento\xEjercicioExperimento.csproj", "{8E9F235A-0B56-41B6-9D1F-EE834B2829C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosPasarValor", "MetodosPasarValor\MetodosPasarValor.csproj", "{192658A9-3BB4-4A1A-9E2D-63D25D3E9A87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosPasarValor", "MetodosPasarValor\MetodosPasarValor.csproj", "{192658A9-3BB4-4A1A-9E2D-63D25D3E9A87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosRecursividad", "MetodosRecursividad\MetodosRecursividad.csproj", "{A6A26C9F-15FF-4456-8350-19AFCF8E8275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosRecursividad", "MetodosRecursividad\MetodosRecursividad.csproj", "{A6A26C9F-15FF-4456-8350-19AFCF8E8275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesArray", "Array\VariablesArray.csproj", "{0D92DE2E-4C40-4883-8343-BB0806CD4097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesArray", "Array\VariablesArray.csproj", "{0D92DE2E-4C40-4883-8343-BB0806CD4097}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuclesForeach", "BuclesForeach\BuclesForeach.csproj", "{E3F05A44-9919-4562-A40A-E16A29A411AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuclesForeach", "BuclesForeach\BuclesForeach.csproj", "{E3F05A44-9919-4562-A40A-E16A29A411AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionesParseTryparse", "ExcepcionesParseTryparse\ExcepcionesParseTryparse.csproj", "{F423B95B-AA20-489F-86E3-9C3B22646367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjercicios26", "xEjercicios26\xEjercicios26.csproj", "{179F74E8-34FA-4EC4-AB4B-1B1B82ABC736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjercicios27", "xEjercicios27\xEjercicios27.csproj", "{8C6226FE-3587-468D-ADC9-8D5CE7043BF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +405,18 @@ Global
 		{E3F05A44-9919-4562-A40A-E16A29A411AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3F05A44-9919-4562-A40A-E16A29A411AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3F05A44-9919-4562-A40A-E16A29A411AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F423B95B-AA20-489F-86E3-9C3B22646367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F423B95B-AA20-489F-86E3-9C3B22646367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F423B95B-AA20-489F-86E3-9C3B22646367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F423B95B-AA20-489F-86E3-9C3B22646367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179F74E8-34FA-4EC4-AB4B-1B1B82ABC736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179F74E8-34FA-4EC4-AB4B-1B1B82ABC736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179F74E8-34FA-4EC4-AB4B-1B1B82ABC736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179F74E8-34FA-4EC4-AB4B-1B1B82ABC736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6226FE-3587-468D-ADC9-8D5CE7043BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6226FE-3587-468D-ADC9-8D5CE7043BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6226FE-3587-468D-ADC9-8D5CE7043BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6226FE-3587-468D-ADC9-8D5CE7043BF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

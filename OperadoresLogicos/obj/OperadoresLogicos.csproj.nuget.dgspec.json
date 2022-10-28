@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj": {}
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj": {
+    "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj",
+        "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj",
         "projectName": "OperadoresLogicos",
-        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj",
+        "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresLogicos\\OperadoresLogicos.csproj",
         "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Proyectos\\ManualCSharp\\OperadoresLogicos\\obj\\",
+        "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\OperadoresLogicos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

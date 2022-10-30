@@ -14,7 +14,7 @@
 
             //for (int i = 1; isTrue; i++)
 
-            //OPCIÓN ALE
+            //OPCIÓN Compi
             //int prime = 1;
 
             /*for (int i = 1; i < take; i++)

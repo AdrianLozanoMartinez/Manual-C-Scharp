@@ -8,7 +8,7 @@
             El programa pedirá al usuario un número entero y mostrará todos los números primos
             dentro del rango 1 y el número dado*/
 
-            //Forma Ale
+            //Otra forma
             /*Console.WriteLine("Introduzca un número entero");
             int cousins = int.Parse(Console.ReadLine());
             int cont = 0;

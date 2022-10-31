@@ -18,9 +18,6 @@ namespace xEjercicio28
 
             //Selecciona opción menú
             int selectMenu = SelectMenu(showMenu);
-
-            Show(selectMenu);
-
         }
 
         static int ShowMenu()
@@ -40,13 +37,13 @@ namespace xEjercicio28
             switch (menu)
             {
                 case 1:
-                    circle();
+                    Circle();
                     break;
                 case 2:
-                    square();
+                    Square();
                     break;
                 case 3:
-                    triangle();
+                    Triangle();
                     break;
             }
             return menu;
@@ -59,29 +56,47 @@ namespace xEjercicio28
             return num;
         }
 
-        static double circle()
+        static double Circle()
         {
             Console.WriteLine("Círculo");
 
             double r = ReadNumber();
 
-            double result = Math.PI * Math.Sqrt(r);
+            double result = Math.PI * Math.Pow(r, 2); 
+
+            Show(result);
+            //Console.WriteLine(result);
 
             return result;
         }
 
-        static double square()
+        static double Square()
         {
             Console.WriteLine("Cuadrado");
-            int x = 0;
-            return x;
+
+            double l = ReadNumber();
+
+            double result = Math.Pow(l, 2); ;
+
+            Show(result);
+            //Console.WriteLine(result);
+
+            return result;
         }
 
-        static double triangle()
+        static double Triangle()
         {
             Console.WriteLine("Triángulo");
-            int x = 0;
-            return x;
+
+            double b = ReadNumber();
+            double a = ReadNumber();
+
+            double result = (b * a)/2; ;
+
+            Show(result);
+            //Console.WriteLine(result);
+
+            return result;
         }
 
         static void Show(double num)

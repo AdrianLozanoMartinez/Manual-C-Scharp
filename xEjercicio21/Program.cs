@@ -13,16 +13,16 @@ namespace xEjercicio21
         static void Main()
         {
             Console.WriteLine("Introduce un día de la semana");
-            string week = Console.ReadLine().ToLower();
+            string week = Console.ReadLine();
 
             Week DayWeek = (Week)Enum.Parse(typeof(Week), week, true);
                         //1.Week-Transforma a enumerak como (int)variable
                                                  //2.Week-Coge el enumerado
                                                                //True-Ignora mayúscula y minúscula
             
-            String dayWeek = DayWeek.ToString().ToLower();
+            //String dayWeek = DayWeek.ToString().ToLower();
 
-            if ((dayWeek == "sabado") || ("domingo" == dayWeek))
+            if ((DayWeek == Week.Sabado) || (DayWeek == Week.Domingo))
             {
                Console.WriteLine("No es laboral");
             }
@@ -30,6 +30,19 @@ namespace xEjercicio21
             {
                 Console.WriteLine("Laboral");
             }
+
+            //Profe
+            /*switch (DayWeek)
+            {
+                case Week.Sabado:
+                case Week.Domingo:
+                    Console.WriteLine("No es laboral");
+                    break;
+
+                default:
+                    Console.WriteLine("Laboral");
+                    break;
+            }*/
 
         }
     }

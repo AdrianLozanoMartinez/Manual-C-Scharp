@@ -16,11 +16,11 @@
                         Posición:      0          1          2          3    ...
 
             -> Fuera o dentro de public static. PREFERIBLE FUERA, no da error
-            -> Dentro de una clase en el mismo archivo o aparte
+            -> Fuera o dentro de una clase y en el mismo archivo o aparte. Si se pone fuera es que se va a usar en más clases.
             -> Primera letra en mayúscula
 
                     _Ejemplo                                                                                                                                               */
-                    enum DayOfWeek { Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo };
+                    enum DayOfWeek { Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo }
 
                     public static void Main() 
                     {                                                                                                                                         /*

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicios26\\xEjercicios26.csproj",
-      "projectName": "xEjercicios26",
-      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicios26\\xEjercicios26.csproj",
+      "projectUniqueName": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicios26\\xEjercicio26.csproj",
+      "projectName": "xEjercicio26",
+      "projectPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicios26\\xEjercicio26.csproj",
       "packagesPath": "C:\\Users\\Sodert\\.nuget\\packages\\",
       "outputPath": "D:\\Documentos\\DAW\\Programacion\\Ejercicios\\ManualCSharp\\xEjercicios26\\obj\\",
       "projectStyle": "PackageReference",

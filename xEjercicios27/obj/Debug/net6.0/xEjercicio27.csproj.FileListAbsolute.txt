@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\bin\Debug\net6.0\xEjercicio27.exe
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\bin\Debug\net6.0\xEjercicio27.deps.json
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\bin\Debug\net6.0\xEjercicio27.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\bin\Debug\net6.0\xEjercicio27.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\bin\Debug\net6.0\xEjercicio27.pdb
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\refint\xEjercicio27.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.pdb
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\xEjercicio27.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicios27\obj\Debug\net6.0\ref\xEjercicio27.dll

@@ -1,0 +1,15 @@
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\bin\Debug\net6.0\xEjercicio31.exe
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\bin\Debug\net6.0\xEjercicio31.deps.json
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\bin\Debug\net6.0\xEjercicio31.runtimeconfig.json
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\bin\Debug\net6.0\xEjercicio31.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\bin\Debug\net6.0\xEjercicio31.pdb
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.csproj.AssemblyReference.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.AssemblyInfoInputs.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.AssemblyInfo.cs
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.csproj.CoreCompileInputs.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\refint\xEjercicio31.dll
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.pdb
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\xEjercicio31.genruntimeconfig.cache
+D:\Documentos\DAW\Programacion\Ejercicios\ManualCSharp\xEjercicio31\obj\Debug\net6.0\ref\xEjercicio31.dll

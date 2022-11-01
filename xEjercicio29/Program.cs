@@ -20,9 +20,13 @@ namespace xEjercicio29
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;  //Para que salga €
             Menu();
-            int money = int.Parse(ReadMoney());
+
+            //Opción dando la posición
+            //int money = int.Parse(ReadMoney());
+
+            //Opción dando el nombre
+            string money = ReadMoney();
             SelectMenu(money);
-            Show();
         }
         //Menú para elegir moneda
         static void Menu()
@@ -30,20 +34,39 @@ namespace xEjercicio29
             Console.WriteLine("Monedas a cambiar\n1. Libras: 0.86 libras es 1 €\n2. Dólares: 1.28611 $ es 1 €\n3. Yenes: 129.852 yenes es 1 €");
         }
 
-        static int SelectMenu(int money)
+        //Opción dando la posición
+        //static int SelectMenu(int money)
+        static string SelectMenu(string money)
         {
-            switch (money)
+            //Opción dando la posición
+            //switch ((Money)money)
+
+            //Opción dando el nombre
+            switch ((Money)Enum.Parse(typeof(Money), money, true))
             {
-                case (Money)1:
+                //Opción dando la posición
+                //case (Money)1:
+
+                //Opción dando el nombre
+                case Money.Libras:
+                    Show(Money.Libras);
+                    break;
+                //case (Money)2:
+                case Money.Dolares:
+                    Show(Money.Dolares);
+                    break;
+                //case (Money)3:
+                case Money.Yenes:
+                    Show(Money.Yenes);
                     break;
             }
-            return;
+            return money;
         }
   
         //Pedimos tipo de moneda
         static string ReadMoney()
         {
-            Console.WriteLine("Introduce que moneda quieres cambiar");
+            Console.WriteLine("Introduce el número de la moneda que quieres cambiar");
             string money = Console.ReadLine();
             return money;
         }
@@ -55,9 +78,9 @@ namespace xEjercicio29
             return amount;
         }
 
-        static void Show()
+        static void Show(Enum Money)
         {
-            Console.WriteLine();
+            Console.WriteLine($"Se a cambiado a la moneda {Money}");
         }
     }
 }

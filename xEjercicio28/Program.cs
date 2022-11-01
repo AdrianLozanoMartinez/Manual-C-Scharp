@@ -11,6 +11,9 @@ namespace xEjercicio28
          para calcular el área. Crea un método por cada figura para calcular cada área, este
          devolverá un número real. Muestra el resultado por pantalla.
          */
+
+        enum Figures { Circle = 1, Square, Triangle }
+
         static void Main(string[] args)
         {
             //Mostramos menú
@@ -34,15 +37,15 @@ namespace xEjercicio28
         static int SelectMenu(int menu)
         {
 
-            switch (menu)
+            switch ((Figures)menu)
             {
-                case 1:
+                case (Figures)1:
                     Circle();
                     break;
-                case 2:
+                case (Figures)2:
                     Square();
                     break;
-                case 3:
+                case (Figures)3:
                     Triangle();
                     break;
             }

@@ -1,4 +1,6 @@
-﻿namespace xEjercicio33
+﻿using System;
+
+namespace xEjercicio33
 {
     internal class Program
     {
@@ -10,7 +12,20 @@
         */
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Introduce varios números enteros separandolos con comas (,)");
+            string numbers = Console.ReadLine();
+
+            string[] array = numbers.Split(',');
+
+            foreach (var variableLocal in array)
+            {
+                int numberPar = int.Parse(variableLocal);
+
+                if (numberPar % 2 == 0)
+                {
+                    Console.WriteLine(numberPar);
+                }
+            }
         }
     }
 }

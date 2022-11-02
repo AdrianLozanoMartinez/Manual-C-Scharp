@@ -145,13 +145,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjerciciosCodingameDirecto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio28", "xEjercicio28\xEjercicio28.csproj", "{2FD7C261-0812-459D-8A44-9D269EDF5CAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjercicio29", "xEjercicio29\xEjercicio29.csproj", "{9B7E5DC7-C99B-4513-BA4A-663C7E479EC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio29", "xEjercicio29\xEjercicio29.csproj", "{9B7E5DC7-C99B-4513-BA4A-663C7E479EC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjercicio31", "xEjercicio31\xEjercicio31.csproj", "{1AC281BE-DD50-4A35-B70C-9EDA3FAD7B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio31", "xEjercicio31\xEjercicio31.csproj", "{1AC281BE-DD50-4A35-B70C-9EDA3FAD7B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjercicio32", "xEjercicio32\xEjercicio32.csproj", "{9AE02C7E-337D-4AF0-AAE0-4E139B4E4A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio32", "xEjercicio32\xEjercicio32.csproj", "{9AE02C7E-337D-4AF0-AAE0-4E139B4E4A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjercicio33", "xEjercicio33\xEjercicio33.csproj", "{83D14BB6-F004-406C-AD42-3D9B79DB4944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio33", "xEjercicio33\xEjercicio33.csproj", "{83D14BB6-F004-406C-AD42-3D9B79DB4944}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjerciciosCodingameFigurasCuadro", "xEjerciciosCodingameFigurasCuadro\xEjerciciosCodingameFigurasCuadro.csproj", "{5B58FE3E-334D-4B7C-933E-CD350B1E5E8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio30", "xEjercicio30\xEjercicio30.csproj", "{2AA5037D-E287-49D6-815F-221525237C1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio34", "xEjercicio34\xEjercicio34.csproj", "{88B160AE-4541-407E-8B0E-1130FFA92015}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio35", "xEjercicio35\xEjercicio35.csproj", "{BC0BC13D-74D5-438F-9AF1-39C14A6B083F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjercicio36", "xEjercicio36\xEjercicio36.csproj", "{C0638AC7-F8A9-4003-AB65-19C339D7F7C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +469,26 @@ Global
 		{83D14BB6-F004-406C-AD42-3D9B79DB4944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D14BB6-F004-406C-AD42-3D9B79DB4944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D14BB6-F004-406C-AD42-3D9B79DB4944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B58FE3E-334D-4B7C-933E-CD350B1E5E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B58FE3E-334D-4B7C-933E-CD350B1E5E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B58FE3E-334D-4B7C-933E-CD350B1E5E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B58FE3E-334D-4B7C-933E-CD350B1E5E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA5037D-E287-49D6-815F-221525237C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA5037D-E287-49D6-815F-221525237C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA5037D-E287-49D6-815F-221525237C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA5037D-E287-49D6-815F-221525237C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B160AE-4541-407E-8B0E-1130FFA92015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B160AE-4541-407E-8B0E-1130FFA92015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B160AE-4541-407E-8B0E-1130FFA92015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B160AE-4541-407E-8B0E-1130FFA92015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0BC13D-74D5-438F-9AF1-39C14A6B083F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0BC13D-74D5-438F-9AF1-39C14A6B083F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0BC13D-74D5-438F-9AF1-39C14A6B083F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0BC13D-74D5-438F-9AF1-39C14A6B083F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0638AC7-F8A9-4003-AB65-19C339D7F7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0638AC7-F8A9-4003-AB65-19C339D7F7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0638AC7-F8A9-4003-AB65-19C339D7F7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0638AC7-F8A9-4003-AB65-19C339D7F7C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

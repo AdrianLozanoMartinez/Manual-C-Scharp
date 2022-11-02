@@ -7,7 +7,7 @@ namespace xPruebasAnotaciones
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
@@ -68,13 +68,24 @@ class Solution
 
 
 
+class Solution
+{
+    static void Main(string[] args)
+    {
+        int n = int.Parse(Console.ReadLine());
 
+        // Write an answer using Console.WriteLine()
+        // To debug: Console.Error.WriteLine("Debug messages...");
 
+        for(int i=1; i <= n; i++)
+        {
+            for(int t=1; t <= n; t++){
 
+                Console.Write(t);
+            }
+            
+        }
+    }
+}
 
-
-
-
-
-
- */
+*/

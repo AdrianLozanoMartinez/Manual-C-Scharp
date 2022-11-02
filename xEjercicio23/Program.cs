@@ -10,26 +10,24 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Introduzca el 1º número");
-            double num1 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Introduzca el 2º número");
-            double num2 = double.Parse(Console.ReadLine());
-            num1 /= num2;
-
             try
             {
-                if (num1 / num2 < 0 || num1 == 0 || num2 == 0 )
-                {
-                    throw new Exception("No se puede operar");
-                }
+                Console.WriteLine("Introduzca el 1º número (Dividendo)");
+                int num1 = int.Parse(Console.ReadLine());
+                Console.WriteLine("Introduzca el 2º número (Divisor)");
+                int num2 = int.Parse(Console.ReadLine());
+
+                int cociente = num1 /= num2;
+
+                Console.WriteLine($"El cociente es: {cociente}");
+
+
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.Message);
-            }
-            finally
-            {
-                Console.WriteLine(num1);
+                //Console.WriteLine($"Se ha generado el error: {e.Message}");
+                //Te devuelve todo, incluyendo la línea que se ha producido
+                Console.WriteLine($"Se ha generado el error: {e}");
             }
         }
     }

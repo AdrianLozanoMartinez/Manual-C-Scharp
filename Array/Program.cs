@@ -58,12 +58,10 @@
                                                                                                                                                     /*
             > Foreach
                 _Ejemplo                                                                                                                                 */
-                foreach (string nombre in nombres)  //se puede poner char pero no string, se puede pone cadena de texto 
+                foreach (string nombre in nombres)  //No se puede poner char y si string
                 {
                     Console.WriteLine(nombre);
                 }
 
 
-                                                                                                                                                    */
-
-                                                                                                                                                                               */
+                                  

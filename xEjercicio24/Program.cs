@@ -15,6 +15,7 @@
     ejecución del programa.
     */
 
+    //COPIAR DE LAS FOTOS
     internal class Program
     {
         enum Player { Inactivo, Reproduciendo = 'p', Pausado = 'p', Parado = 's', Cerrado = 'q' };

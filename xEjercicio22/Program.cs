@@ -14,39 +14,41 @@
         enum Lamp { ON, OFF };
         static void Main(string[] args)
         {
-            string take2 = "off";
+            Lamp state = Lamp.OFF;
 
             while (true)
             {
                 Console.WriteLine("Introduzca ON/OFF para encender/apagar la lámpara");
-                string take = Console.ReadLine();
+                string input = Console.ReadLine();
 
-                Lamp On = Lamp.ON;
-                Lamp Off = Lamp.OFF;
+                Lamp action = (Lamp)Enum.Parse(typeof(Lamp), input, true);
 
-                //Una forma
-                //String on = On.ToString().ToLower();
-                String off = Off.ToString().ToLower();
-
-                //Otra forma
-                string on = Convert.ToString((Lamp)On).ToLower();
-                //string off = Convert.ToString((Lamp)Off).ToLower();
-
-                if (take == on && take2 == off)
+                if (action == Lamp.ON && state == Lamp.OFF)
                 {
                     Console.WriteLine("Está encendida");
-                    take2 = on;
+                    state = Lamp.ON;
                 }
-                else if (take == off && take2 == on)
+                else if (action == Lamp.OFF && state == Lamp.ON)
                 {
                     Console.WriteLine("Está apagada");
-                    take2 = off;
+                    state = Lamp.OFF;
                 }
-                else if ((take == on && take2 == on) || (take == off && take2 == off))
+                else 
                 {
                     throw new Exception("La acción no está permitida. Ya estaba encendida o apagada");
                 }
             }
         }
+
+
+
+
+
+
+
+
+
+
+
     }
 }

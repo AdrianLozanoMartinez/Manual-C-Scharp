@@ -10,7 +10,17 @@
         */
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Introduce números y separalos entre comas");
+            string numbers = Console.ReadLine();
+
+            string[] array = numbers.Split(',');
+
+            Array.Sort(array);
+
+            foreach (string local in array)
+            {
+                Console.WriteLine(local);
+            }
         }
     }
 }

@@ -14,7 +14,7 @@
     }                                                                                                                                                                           /*
  
     
-                                                                                                                                              /*
+//CADA VUELTA RESETEA, NO SE GUARDA ESTADO COMO EN UN FOR O SOLO WHILE                                                                                                                                  /*
 * Do While               -> Pedir al usuario, pedir al servidor si da fallo...
     - do                 -> Se ejecuta 1º y luego mientras se cumpla la condición del while
       {

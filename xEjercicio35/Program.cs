@@ -37,11 +37,11 @@ namespace xEjercicio35
             {
                 for (int i = 0; i < array.Length; i++)
                 {
-                    string nombre = array[i]; //[i] coge las posiciones del array nombre
+                    string name = array[i]; //[i] coge las posiciones del array nombre
 
                     if (result == i)
                     {
-                        Show(nombre, dni);
+                        Show(name, dni);
                     }
                 }
             }
@@ -53,9 +53,9 @@ namespace xEjercicio35
 
         }
 
-        static void Show(string nombre, int dni)
+        static void Show(string name, int dni)
         {
-            Console.WriteLine($"Su DNI es: {dni + nombre}");
+            Console.WriteLine($"Su DNI es: {dni + name}");
         }
     }
 }

@@ -30,7 +30,7 @@
     - objetoRandom.Next(x)   -> 0 a x (sin incluir x)
     - objetoRandom.Next(x,y) -> x a y (sin incluir y)
 
-    _Ejemplo                                                                                                                                    */
+    _Ejemplo                                                                                                                                                                                                             */
     Random random = new Random();
     Console.WriteLine("random.Next(5,10): " + random.Next(5,10)); //Nos sale números entre el 5 y el 10, sin incluir el 10. Si
                                                                   //queremos incluir el 10 deberemos poner el 11

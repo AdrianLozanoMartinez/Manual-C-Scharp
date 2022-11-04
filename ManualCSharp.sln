@@ -165,9 +165,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjercicio37", "xEjercicio3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xPruebasAnotaciones", "xPruebasAnotaciones\xPruebasAnotaciones.csproj", "{2C469772-3692-4E2A-9706-2C251A846E63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjerciciosCodingameAbecedario", "xEjerciciosCodingameAbecedario\xEjerciciosCodingameAbecedario.csproj", "{90033B2A-953C-4256-9E5C-34BFF4CFAD75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjerciciosCodingameAbecedario", "xEjerciciosCodingameAbecedario\xEjerciciosCodingameAbecedario.csproj", "{90033B2A-953C-4256-9E5C-34BFF4CFAD75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjerciciosCodingameSerieNumerica", "xEjerciciosCodingameSerieNumerica\xEjerciciosCodingameSerieNumerica.csproj", "{2F53EF8A-C958-4376-82D8-5B1A0A47F13A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjerciciosCodingameSerieNumerica", "xEjerciciosCodingameSerieNumerica\xEjerciciosCodingameSerieNumerica.csproj", "{2F53EF8A-C958-4376-82D8-5B1A0A47F13A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjerciciosCodegameContarCaracter", "xEjerciciosCodegameContarCaracter\xEjerciciosCodegameContarCaracter.csproj", "{6BCBB42B-C720-4C57-A10B-D186F5310182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjerciciosCodingameAsteriscos", "xEjerciciosCodingameAsteriscos\xEjerciciosCodingameAsteriscos.csproj", "{235C1CFA-115E-41A7-934C-FE73B61112E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +511,14 @@ Global
 		{2F53EF8A-C958-4376-82D8-5B1A0A47F13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F53EF8A-C958-4376-82D8-5B1A0A47F13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F53EF8A-C958-4376-82D8-5B1A0A47F13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCBB42B-C720-4C57-A10B-D186F5310182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCBB42B-C720-4C57-A10B-D186F5310182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCBB42B-C720-4C57-A10B-D186F5310182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCBB42B-C720-4C57-A10B-D186F5310182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235C1CFA-115E-41A7-934C-FE73B61112E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235C1CFA-115E-41A7-934C-FE73B61112E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235C1CFA-115E-41A7-934C-FE73B61112E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235C1CFA-115E-41A7-934C-FE73B61112E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

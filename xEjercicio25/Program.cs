@@ -14,10 +14,7 @@
             Console.WriteLine("Introduzca 2/2 número");
             int m = int.Parse(Console.ReadLine());
 
-            int factorialn = Factorial(n);    
-            int factorialm = Factorial(m);
-
-            int result = factorialn - factorialm;
+            int result = Factorial(n) - Factorial(m);
 
             Console.WriteLine(result);
            
@@ -27,7 +24,7 @@
         {
             int result = 0;
 
-            if (x < 1 || x < 1)
+            if (x < 1)
             {
                 result = 1;
             }

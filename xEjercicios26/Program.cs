@@ -11,7 +11,7 @@
         {
             int num = ReadNumber();
 
-            int result = Result(num);
+            int result = Factorial(num);
 
             Show(result);
         }
@@ -23,13 +23,17 @@
             return num;
         }
 
-        static int Result(int num)
+        static int Factorial(int x)
         {
             int result = 0;
 
-            for (int i = 1; i <= num; i++)
+            if (x < 1 || x < 1)
             {
-                result += num;
+                result = 1;
+            }
+            else
+            {
+                result = x * Factorial(x - 1);
             }
 
             return result;

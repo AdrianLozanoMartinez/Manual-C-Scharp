@@ -11,9 +11,13 @@
         {
             int num = ReadNumber();
 
-            int result = Factorial(num);
+            int result = Sumatorio(num);
 
-            Show(result);
+            int result2 = Productorio(num); //Para añadir el productorio. No pedido
+
+            //Show(result);
+
+            Show(result, result2); //Para añadir el productorio. No pedido
         }
 
         static int ReadNumber()
@@ -23,11 +27,37 @@
             return num;
         }
 
+        //Sumatorio
+        static int Sumatorio(int x)
+        {
+            int result = 0;
+
+            for (int i = 1; i <= x; i++)
+            {
+                result += Factorial(i) + i;  //*= sería para el productorio, que es similar al número PI el símbolo
+            }
+
+            return result;
+        }
+
+        //Productorio - Similar al símbolo del número PI
+        static int Productorio(int x)
+        {
+            int result = 1;
+
+            for (int i = 1; i <= x; i++)
+            {
+                result *= Factorial(i) + i;  //*= sería para el productorio, que es similar al número PI el símbolo
+            }
+
+            return result;
+        }
+
         static int Factorial(int x)
         {
             int result = 0;
 
-            if (x < 1 || x < 1)
+            if (x < 1)
             {
                 result = 1;
             }
@@ -39,9 +69,11 @@
             return result;
         }
 
-        static void Show(int result)
+        //static void Show(int result)
+        static void Show(int result, int result2) //Para añadir el productorio. No pedido
         {
             Console.WriteLine(result);
+            Console.WriteLine(result2); //Para añadir el productorio. No pedido
         }
     }
 }

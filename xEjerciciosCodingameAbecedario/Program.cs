@@ -39,7 +39,7 @@
             char ascii = Convert.ToChar(o + 64);
             for (int i = 0; i < o; i++)
             {
-                Console.WriteL(ascii);
+                Console.WriteLine(ascii);
             }
         }
     

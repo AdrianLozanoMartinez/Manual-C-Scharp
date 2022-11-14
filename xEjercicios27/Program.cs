@@ -23,12 +23,8 @@
             int num = ReadNumber();
             int num2 = ReadNumber();
 
-            //Muestra Fibonacci
-            int fibonacci = ShowAll(num);
-            int fibonacci2 = ShowAll(num2);
-
             //Suma Fibonacci
-            int result = fibonacci + fibonacci2;
+            int result = Fibonacci(num) + Fibonacci(num2);
 
             //Muestra resultado total
             Show(result);
@@ -45,36 +41,24 @@
         //Fibonacci
         static int Fibonacci(int num)
         {
-            int result;
+            int result = 0;
 
-            if (num < 1)  //Si lo que cogemos es menor o igual que 0 devolvemos 0.
-                result = 1;
+            if (num <= 1)  //Si lo que cogemos es menor o igual que 0 devolvemos 0.
+                result = num;
             else
                 result = Fibonacci(num - 1) + Fibonacci(num - 2);
 
             return result;
         }
 
-        static int ShowAll(int fibonacci)
-        {
-            int plus = 0;
-            Console.WriteLine($"Fibonacci de: {fibonacci}");
-
-
-            for (int i=0; i < fibonacci; i++)
-            {
-            Console.WriteLine(Fibonacci(i));
-                 plus =+ Fibonacci(i);
-            }
-
-            Console.WriteLine($"Totales: {plus} \n");
-
-            return plus;
-        }
-
         static void Show(int result)
         {
             Console.WriteLine($"Resultado de la suma de Fibonacci: {result}");
         }
+
+
+
+
+
     }
 }

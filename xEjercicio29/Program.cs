@@ -15,10 +15,17 @@ namespace xEjercicio29
          1.28611 $ es 1 €
          129.852 yenes es 1 €
         */
-        enum Money { Libras, Dolares, Yenes  }
+        enum Money { Libras=1, Dolares, Yenes  }
+
+        const double EURO_A_LIBRA = 0.86;
+        const double EURO_A_DOLARES = 1.28611;
+        const double EURO_A_YENES = 129.852;
         static void Main(string[] args)
         {
+            CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
+
             Console.OutputEncoding = System.Text.Encoding.UTF8;  //Para que salga €
+
             Menu();
 
             //Opción dando la posición
@@ -26,12 +33,34 @@ namespace xEjercicio29
 
             //Opción dando el nombre
             string money = ReadMoney();
+
             SelectMenu(money);
         }
         //Menú para elegir moneda
         static void Menu()
         {
             Console.WriteLine("Monedas a cambiar\n1. Libras: 0.86 libras es 1 €\n2. Dólares: 1.28611 $ es 1 €\n3. Yenes: 129.852 yenes es 1 €");
+        }
+
+        //Pedimos tipo de moneda
+        static string ReadMoney()
+        {
+            //Con posición
+            //Console.WriteLine("Introduce el número de la moneda que quieres cambiar");
+
+            //Con nombre
+            Console.WriteLine("Introduce una opción en letras");
+            string money = Console.ReadLine();
+            return money;
+        }
+
+
+        //Pedimos cantidad de monedas
+        static double ReadAmount()
+        {
+            Console.WriteLine("Introduce la cantidad de euros");
+            double amount = double.Parse(Console.ReadLine());
+            return amount;
         }
 
         //Opción dando la posición
@@ -41,46 +70,41 @@ namespace xEjercicio29
             //Opción dando la posición
             //switch ((Money)money)
 
-            //Opción dando el nombre
-            switch ((Money)Enum.Parse(typeof(Money), money, true))
+            //Profe
+            object currency;
+
+            //Profe
+            if (Enum.TryParse(typeof(Money), money, true, out currency))
             {
-                //Opción dando la posición
-                //case (Money)1:
-
                 //Opción dando el nombre
-                case Money.Libras:
-                    Show(Money.Libras);
-                    break;
-                //case (Money)2:
-                case Money.Dolares:
-                    Show(Money.Dolares);
-                    break;
-                //case (Money)3:
-                case Money.Yenes:
-                    Show(Money.Yenes);
-                    break;
+                switch ((Money)Enum.Parse(typeof(Money), money, true))
+                {
+                    //Opción dando la posición
+                    //case (Money)1:
+
+                    //Opción dando el nombre
+                    case Money.Libras:
+                        result = euros * EURO_A_LIBRA; //euros se refiere a la cantidad de moneda
+                        Show(Money.Libras);
+                        break;
+                    //case (Money)2:
+                    case Money.Dolares:
+                        Show(Money.Dolares);
+                        break;
+                    //case (Money)3:
+                    case Money.Yenes:
+                        Show(Money.Yenes);
+                        break;
+                }
+                return money;
             }
-            return money;
-        }
-  
-        //Pedimos tipo de moneda
-        static string ReadMoney()
-        {
-            Console.WriteLine("Introduce el número de la moneda que quieres cambiar");
-            string money = Console.ReadLine();
-            return money;
-        }
-        //Pedimos cantidad de monedas
-        static string ReadAmount()
-        {
-            Console.WriteLine("Introduce la cantidad de moneda");
-            string amount = Console.ReadLine();
-            return amount;
+
         }
 
-        static void Show(Enum Money)
-        {
-            Console.WriteLine($"Se a cambiado a la moneda {Money}");
-        }
+            static void Show(Enum Money)
+            {
+                Console.WriteLine($"Se a cambiado a la moneda {Money}");
+            }
+        
     }
 }

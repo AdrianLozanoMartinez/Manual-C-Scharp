@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace xEjercicio28
 {
@@ -16,6 +17,9 @@ namespace xEjercicio28
 
         static void Main(string[] args)
         {
+            //Para que coja números reales
+            CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
+
             //Mostramos menú
             int showMenu = ShowMenu();
 
@@ -31,20 +35,26 @@ namespace xEjercicio28
             Console.WriteLine("3. Triángulo");
 
             int num = int.Parse(Console.ReadLine());
+            //Opción profe
+            //Option option = (Option)int.Parse(Console.ReadLine());
             return num;
         }
 
         static int SelectMenu(int menu)
         {
-
+            //Profe
+            //switch (option)
             switch ((Figures)menu)
             {
+                //case Option.Circle:
                 case (Figures)1:
                     Circle();
                     break;
+                //case Option.Square:
                 case (Figures)2:
                     Square();
                     break;
+                //case Option.Triangle:
                 case (Figures)3:
                     Triangle();
                     break;
@@ -63,6 +73,7 @@ namespace xEjercicio28
         {
             Console.WriteLine("Círculo");
 
+            Console.WriteLine("Introduce el radio del círculo:");
             double r = ReadNumber();
 
             double result = Math.PI * Math.Pow(r, 2); 
@@ -73,6 +84,7 @@ namespace xEjercicio28
             return result;
         }
 
+  
         static double Square()
         {
             Console.WriteLine("Cuadrado");
@@ -92,9 +104,13 @@ namespace xEjercicio28
             Console.WriteLine("Triángulo");
 
             double b = ReadNumber();
+            //Profe
+            //double @base = ReadNumber();
             double a = ReadNumber();
+            //double altura = ReadNumber();
 
-            double result = (b * a)/2; ;
+            //double result = (@base * altura)/2; 
+            double result = (b * a)/2; 
 
             Show(result);
             //Console.WriteLine(result);
@@ -104,7 +120,11 @@ namespace xEjercicio28
 
         static void Show(double num)
         {
-            Console.WriteLine(num);
+            Console.WriteLine("El área es: {0}", num);
         }
     }
 }
+
+
+//1/2.0 o 2f sino esta definido en variable float o double para que no de entero sino decimal.
+//Para raiz cubica -> Math.Sqrt(radio, 0.5 o 1/2.0) 

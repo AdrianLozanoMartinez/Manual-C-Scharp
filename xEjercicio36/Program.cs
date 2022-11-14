@@ -15,7 +15,7 @@
 
             string[] array = numbers.Split(',');
 
-            Array.Sort(array);
+            //Array.Sort(array);//NO VALE...CAMBIARLO COMO LO HICE EN EL AHORCADO
 
             foreach (string local in array)
             {

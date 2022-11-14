@@ -15,7 +15,7 @@
     ejecución del programa.
     */
 
-    //COPIAR DE LAS FOTOS del wasa
+    //COPIAR DE LAS FOTOS del wasa de kevin
     internal class Program
     {
         enum Player { Inactivo, Reproduciendo = 'p', Pausado = 'p', Parado = 's', Cerrado = 'q' };

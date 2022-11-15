@@ -24,12 +24,13 @@
                                                                                                                                                                                        /*
         _Ejemplo2:                                                                                                                                                                    */
         string text = "98765texto4321";       //Número en string para ser recorrido (Length) y poder usarlo como cadena
+        string caracter2 = "";
         for (int i = 0; i < text.Length; i++) //Length Cuenta los caracteres desde 0. Texto -> 5 caracteres
         {                                     //0,1,2,3,4 posiciones
                                               //1,2,3,4,5 caracteres
             char caracter = text[i];          /*text[i] -> Recorre en cada vuelta la variable que contiene "texto"
                                                            En cada vuelta un carácter coge/muestra*/
-
+            caracter2 += Convert.ToString(caracter);  //Metemos en string para luego sacarlo fuera, pero declaramos string fuera del for 
             Console.WriteLine("Ejemplo2. text[i]/caracter: " + text[i]);
 
             if (char.IsDigit(caracter))       //Comprobar si el carácter que cogemos es un número o no
@@ -40,9 +41,10 @@
             {
                 Console.WriteLine("Ejemplo2. No es un dígito");
             }
-}                                                                                                                                                                                                                     /* 
+    
+        }    Console.WriteLine("Ver todo el texto después de pasar por for" + caracter2);                                                                                                                                                                                                                 /* 
 
-
+        
     * For Anidado:
         for (variable; condición; sentencia)       //Se ejecuta 1º vez
         {
@@ -60,17 +62,17 @@
                 1  |  2    3
 
         _Ejemplo                                                                                                                                                                                                                                  */
-         for ( int a = 1; a <= 5; a++ )    //Se ejecuta 1º vez
+        for ( int v = 1; v <= 5; v++ )    //Se ejecuta 1º vez
           {
               for ( int b = 1; b <= 5; b++)  
               {                             
-                  if ( b <= a )             //Si b es menor o igual que a
+                  if ( b <= v )             //Si b es menor o igual que a
                   {
                     Console.Write("O");
                   }
               }
               Console.Write("\n");          //Salto de línea
-          }
+        }
           Console.ReadLine();                                                                                                                                                                                        /*
          Resultado:
          0
@@ -89,20 +91,25 @@
     * Array 
         _Ejemplo                                                                                                                                                                                                                                 */
         string[] nombres = new string[] { "vero", "paul" };
+        string nombre = "";
 
         for (int i = 0; i < nombres.Length; i++)
         {
-                string nombre = nombres[i]; //[i] coge las posiciones del array nombre
-                Console.WriteLine(nombre);
+                nombre += nombres[i]; //[i] coge las posiciones del array nombre, al ponerle + se suma todo el contenido del array. veropaul
+
+                string nombre3 = nombres[i]; //[i] coge las posiciones del array nombre
+                Console.WriteLine(nombre3);  //Muestra cada palabra - vero
+                                             //                       paul
         }
-                                                                                                                                                                                                     /*
+        Console.WriteLine(nombre); //Muestra todo loq ue contiene el array - veropaul
+/*
 * FOREACH
-   * foreach (int VariableNueva in VariableRecibida) //Metemos en la VariableNueva lo que recibimos de VariableRecibida
-       - Se usa con array / texto
-   
-   * Array de números                                                                                                                                                                                 
-       _Ejemplo                                                                                                                                                                                      */ 
-       int[] a = new int[] { 1, 2, 3, 4, 5 };
+    * foreach (int VariableNueva in VariableRecibida) //Metemos en la VariableNueva lo que recibimos de VariableRecibida
+    - Se usa con array / texto
+
+    * Array de números                                                                                                                                                                                 
+    _Ejemplo                                                                                                                                                                                      */
+    int[] a = new int[] { 1, 2, 3, 4, 5 };
 
        foreach (int i in a)
        {

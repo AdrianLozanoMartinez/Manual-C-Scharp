@@ -8,11 +8,6 @@
     * Números:
         - long   -> Enteros 64 bits. Menos usado. Si se usara se tiene que descargar una librería de 3º
 
-        - double -> Reales/Decimales 64 bits. Más preciso que float. Más usado. Alias de System.Double
-                    Especial para matemáticas y dinero
-                    double variable <-> System.Double variable;
-                    Ejemplo: double d = 1.555d; -> Se pone d porque sino da error de sintasis y quede claro que es tipo double
-
         - float  -> Reales/Decimales 32 bits. Menos preciso que double
                     Ejemplo: float f = 1.555f; -> Se pone f porque sino da error de sintasis y quede claro que es tipo float
 

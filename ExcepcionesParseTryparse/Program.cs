@@ -1,18 +1,18 @@
-﻿                                                                                                                                                                                      /*
+﻿                                                                                                                                                                                                                                                    /*
  * Controla que se mete un número y no una letra y en bucle para controlar si se sale o no  
-                                                                                                                                                                              */
+                                                                                                                                                                                                                                               */
 namespace ExcepcionesParseTryparse
 {
-    internal class ParseTryparse
+    internal class Program
     {
-                                                                                                                                                                /* 
+                                                                                                                                                                                                                        /* 
  * TryParse
     - Condicionales (TryParse)
 
             if (int.TryParse(variableComprobar/Console.ReadLine(), out int variableSalida))
                  //Prueba si variableComprobar/Console.ReadLine() es un número, si lo es lo saca y entra en el if        
                                                                                                                                                                 
-        _Ejemplo                                                                                                                                                      */
+        _Ejemplo                                                                                                                                                                                                            */
         static void Main(string[] args)
         {
             Console.WriteLine("Introduce la cantidad de números");
@@ -28,7 +28,7 @@ namespace ExcepcionesParseTryparse
                 Console.WriteLine("No es un número");
             }
         }    
-                                                                                                                                                     /*
+                                                                                                                                                                                                                                        /*
     - Funciones (TryParse + int.Parse)
 
          static bool TryParse(string variableComprobar/Console.ReadLine(), out int variableSalida)  
@@ -60,7 +60,7 @@ namespace ExcepcionesParseTryparse
             }
 
             return success;
-        }                                                                                                                                                     /*
+        }                                                                                                                                                                                                     /*
    
     - Bucle (TryParse)            
 
@@ -74,7 +74,7 @@ namespace ExcepcionesParseTryparse
 
             if(int.TryParse(Console.ReadLine(), out variable))        //Si es un número lo introducido se mete en la variable y entra en el if
         
-        _Ejemplo                                                                                                                                                       */
+        _Ejemplo                                                                                                                                                                                                                     */
         static void bucle()
         {
             Console.WriteLine("Introduce la cantidad de números");
@@ -99,8 +99,8 @@ namespace ExcepcionesParseTryparse
 
            
 
-                                                                                                                                                                    /*
- * Parse
+                                                                                                                                                                                                                         /*
+ * Parse    
     - Bucle (int.Parse)            
 
         int variable = -1; //Ponemos -1 que se cambia si es un número introducido por teclado, si no es un número se mantiene en -1
@@ -117,7 +117,7 @@ namespace ExcepcionesParseTryparse
             }
         }while (variable == -1); //Si cambia de -1 a un número se sale del bucle    
         
-        _Ejemplo                                                                                                                                                       */
+        _Ejemplo                                                                                                                                                                                                                */
         static void bucle2()
         {
             Console.WriteLine("Introduce la cantidad de números");

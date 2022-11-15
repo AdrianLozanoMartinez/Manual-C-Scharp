@@ -2,21 +2,21 @@
   * A decimal
 
     - Int -> Variable
-        _Ejemplo                                                                                                                                            */
+        _Ejemplo                                                                                                                                                                                                                                */
         int i = 9;
         float myFloat = i;
 
         Console.WriteLine($"Sin transformar, i: {i}");                  // vale 9
         Console.WriteLine($"Transformado, myFloat: {myFloat} \n");      // vale 9 en decimal
                                                                                                                                                                                                             /*
-    - Float -> Variable
-        _Ejemplo                                                                                                                                                */
+    - Float -> Variable 
+        _Ejemplo                                                                                                                                                                                                                      */
         float f = 1.5555f;
         double myDouble = f;
 
         Console.WriteLine($"Sin transformar, f: {f}");                  // vale 1.5555
         Console.WriteLine($"Transformado, myDouble: {myDouble} \n");    // vale 1,5555000305175781
-                                                                                                                                                                /*
+                                                                                                                                                                                                                      /*
     - Convert.ToDouble(número/"texto") o int.Parse(número/"texto")
 
         _Ejemplos                                                                                                                                                               */

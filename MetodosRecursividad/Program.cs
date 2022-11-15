@@ -1,6 +1,6 @@
 ﻿namespace MetodosRecursividad
 {
-    internal class Recursividad
+    internal class Program
     {
         static void Main()
         {

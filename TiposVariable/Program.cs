@@ -1,4 +1,4 @@
-﻿/*
+﻿                                                                                                                                                                                                                /*
     * Boolean:
         - bool   -> En Java es boolean. La expresión más larga se pone al final.
                     Ejemplo:                                                                                                    
@@ -26,4 +26,4 @@
                     char variable <-> System.Char variable;
 
         - string -> Cadena de carácter "texto". Único que admite nulo (null). Alias de System.String 
-                    string variable -> System.String variable;                                                                                                          */
+                    string variable -> System.String variable;                                                                                                                                                        */

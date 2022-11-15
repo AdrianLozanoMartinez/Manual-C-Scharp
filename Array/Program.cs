@@ -24,7 +24,7 @@
 
         - Object
              > object[número, texto, variable, objecto] variable = new object[cantidadNúmero];           
-             _Ejemplo                                                                                                                         */
+             _Ejemplo                                                                                                                                                                        */
              object[] variable = new object[10];
 
              variable[4] = new Random();
@@ -35,19 +35,19 @@
              Console.WriteLine(variable[3]); //imprime a 
              Console.WriteLine(variable[2]); //imprime vacío, si comparamos con nulo sale false
              Console.WriteLine(variable[2].ToString() == null); //imprime vacío, si comparamos con nulo sale false
-                                                                                                                                                                           /*
+                                                                                                                                                                                                                 /*
         - Bucles
             > For 
-                _Ejemplo                                                                                                                            */
+                _Ejemplo                                                                                                                                                                            */
                 string[] nombres = new string[] { "vero", "paul" };
                 for (int i = 0; i < nombres.Length; i++)
                 {
                      string nombre = nombres[i]; //[i] coge las posiciones del array nombre
                      Console.WriteLine(nombre);
                 }
-                                                                                                                                                            /*
+                                                                                                                                                                                                                  /*
             > While
-                _Ejemplo                                                                                                                                    */
+                _Ejemplo                                                                                                                                                                                  */
                 int count = 0;
                 while (count < nombres.Length)
                 {
@@ -55,9 +55,9 @@
                      Console.WriteLine(nombre);
                      count++;
                 }
-                                                                                                                                                    /*
+                                                                                                                                                                                                    /*
             > Foreach
-                _Ejemplo                                                                                                                                 */
+                _Ejemplo                                                                                                                                                                                             */
                 foreach (string nombre in nombres)  //No se puede poner char y si string
                 {
                     Console.WriteLine(nombre);

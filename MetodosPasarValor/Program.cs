@@ -2,7 +2,7 @@
 
 namespace MetodosPasarValor
 {
-    internal class PasarValor
+    internal class Program
     {
                                                                                                                                                     /*
          * Pasa valor a otro método -> No vuelve. Se pasa una COPIA de la variable. Excepto los ARRAY que sí pasa su valor y NO COPIA

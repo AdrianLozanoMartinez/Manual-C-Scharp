@@ -2,7 +2,7 @@
 podemos poner una condición, por ejemplo que acabe antes un ciclo o probar un valor.
 Para que funcione le damos a la flecha verde con el nombre del proyecto y para ir viendo los pasos le damos a
 continuar*/
-class Program
+class PuntoRuptura
  {
      const int TIRADAS = 50; 
      static readonly DateTime NOW = DateTime.Now; 

@@ -3,7 +3,7 @@
                                                                                                                                                                                                                                                */
 namespace ExcepcionesParseTryparse
 {
-    internal class Program
+    internal class ParseTryparse
     {
                                                                                                                                                                                                                         /* 
  * TryParse

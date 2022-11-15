@@ -1,12 +1,12 @@
 ﻿using System.Text;
-/*
+                                                                                                                                                                                            /*
         - Errores
             > char[] a = null;
 
         - Nulo
             > string[]
             > Random[] a = new Random[10];
-             _Ejemplo */
+             _Ejemplo                                                                                                                                                   */
 
              Random[] a = new Random[10];
              Console.WriteLine("Comparamos un Random si es nulo (a[1] == null): " + (a[1] == null));

@@ -1,6 +1,6 @@
 ﻿namespace metodos
 {
-    class Program
+    class Metodos
     {
 
 

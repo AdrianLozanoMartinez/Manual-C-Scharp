@@ -24,9 +24,9 @@
                 
             _Ejemplos                                                                                                                                                               */
 
-            // Texto a Decimal
+            // Entero a Decimal
             int num = 14;
-            Console.WriteLine($"De 14 entero a 14 decimal, no se nota visual pero si a la hora de operar: {Convert.ToDouble(num)}");         // vale 14
+            Console.WriteLine($"De 14 entero a 14 decimal, no se nota visual pero si a la hora de operar: {Convert.ToDouble(num)}");         // vale 14 en decimal
           
                                                                                                                                                                                                       /*                                                                                                                                                              
    * A texto   
@@ -46,4 +46,17 @@
            _Ejemplo                                                                                                                                                                                             */
            char number = '3';
            int position = (int)number;
-           Console.WriteLine("La '3' en código ASCII es: " + position + '\n'); //Sale 51 que es la posición del 3 en la tabla ASCII.                                                                                                                                                         
+           Console.WriteLine("La '3' en código ASCII es: " + position + '\n'); //Sale 51 que es la posición del 3 en la tabla ASCII.                                                        
+                                                                                                                                                                                                                            /*                                             
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><
+
+ * FORMATO NUMÉRICO DENTRO DE STRING
+ 
+       - Sin formato
+           > No especificamos formato. Sale como lo enviamos
+                _Ejemplo:                                                                                                                                   */
+                int numero = 10;
+                string numeroTexto = numero.ToString(); 
+                Console.WriteLine($"Sin formato: {numeroTexto}"); //Sale "10"
+          

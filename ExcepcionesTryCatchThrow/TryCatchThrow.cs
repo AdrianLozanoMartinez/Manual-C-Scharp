@@ -4,7 +4,7 @@
     - Nos da el error el IDE y no la consola, por eso se debe usar try catch
 
     _Ejemplo                                                                                                                                            */
-    class Program
+    class TryCatchThrow
     {
         public static void Main()
         {

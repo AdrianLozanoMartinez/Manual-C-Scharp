@@ -8,7 +8,7 @@
             _Ejemplo                                                                                                                      */
             namespace NombreProyecto; //Debe usar namespace NombreProyecto
 
-                class Program //Debe tener una clase
+                class Enumerados //Debe tener una clase
                 {
                                                                                                                                                                /*
     - Compuesto

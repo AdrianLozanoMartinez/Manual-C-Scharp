@@ -6,11 +6,6 @@
                     //Si no está suspenso y la nota es mayor e igual que 7 es true, si una de las dos condiciones no es, sería false
     
     * Números:
-        - int    -> Enteros 32 bits. Más usado. Alias de System.Int32
-                    int variable; <-> System.Int32 variable;
-
-        - uint   -> Enteros solo positivo
-
         - long   -> Enteros 64 bits. Menos usado. Si se usara se tiene que descargar una librería de 3º
 
         - double -> Reales/Decimales 64 bits. Más preciso que float. Más usado. Alias de System.Double

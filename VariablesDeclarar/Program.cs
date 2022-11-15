@@ -1,4 +1,4 @@
-﻿/* 
+﻿                                                                                                                                                                                    /* 
     * Declarar / Inicializar
     
         - tipo variable -> Si no se da valor puede dar error, sino da error nos da 0 o false  
@@ -10,7 +10,7 @@
         - tipo variable = valor;
             _Ejemplo                                                                                                                                                */
             int j = 0;   
-            Console.WriteLine($"int j = 0; Muestra: {j}");                                                                                                /*
+            Console.WriteLine($"int j = 0; Muestra: {j}");                                                                                                                               /*
                                                                                                                                                                       
         - tipo variable = valor, variable2 = valor, variable3 -> Evitarlo
             _Ejemplo                                                                                                                                                                    */

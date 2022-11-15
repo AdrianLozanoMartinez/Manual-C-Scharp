@@ -359,7 +359,95 @@ class Persona1
     }
 
 
+   // public //Poder cambiar fuera de la clase - no recomendable
+    //private //No poder cambiar fuera al menos que use metodos y propiedades - recomendable
+
+class Persona3
+    {
+        public string Nombre { private get; set; }
+        public string Nombre {  get; private set; }
+
+
+        public string Nombre { private get; private set; } //NUNCA
+        private string Nombre {  get; set; } //SI
+
+    }
+
+    class Persona4
+    {
+        public string nombre;  //Solo se puede poner uno de ellos no los dos en privado
+        private string nombre;  //para poner los dos private se pone aquí del tirón
+
+        private string get {   //nunca a la vez o uno u otro
+        return nombre; 
+        }
+        private set  //nunca a la vez o uno u otro
+        {
+        nombre = value;
+        }
+    }
 
 
 
 
+//CODINGAME
+//mio
+class Solution
+{
+    static void Main(string[] args)
+    {
+        string caseOrTrick = Console.ReadLine();
+        int n = int.Parse(Console.ReadLine());
+
+        string abc = "abcdefghijklmnopqrstuvwxyz";
+        string save = "";
+        string save2 = "";
+        string upper = "UPPER";
+
+        if (caseOrTrick.ToUpper() == upper)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                save += abc[i] + " ";
+            }
+            save2 = save.ToUpper();
+        }
+        else
+        {
+            for (int i = 0; i < n; i++)
+            {
+                save += abc[i] + " ";
+            }
+            save2 = save.ToLower();
+        }
+
+        Console.WriteLine(save2.Trim());
+    }
+}
+
+
+
+//Profe
+class Solution
+{
+    static void Main(string[] args)
+    {
+        string caseOrTrick = Console.ReadLine().ToLower();
+        int n = int.Parse(Console.ReadLine());
+
+        if (n < 27)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                char b = caseOrTrick[0] == 'l' ? 'a' : 'A';
+
+                Console.Write((char)(b + i));
+                if (i < n - 1) Console.Write(' ');
+            }
+        }
+        else
+        {
+            Console.WriteLine("ERROR");
+        }
+    }
+}

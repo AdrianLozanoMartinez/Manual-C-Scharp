@@ -1,11 +1,11 @@
-﻿                                                                                                                                                                        /*
+﻿                                                                                                                                                                                                                    /*
  * While
     - while (condición)  -> Mientras se cumpla la condición se ejecuta el código
     {
         Código
     }
 
-    _Ejemplo                                                                                                                                            */
+    _Ejemplo                                                                                                                                                                                              */
     int Contador = 1;
     while (Contador <= 10)
     {
@@ -21,8 +21,8 @@
           Código
       }
       while (condición); -> No se pone el código dentro del while
-
-    _Ejemplo                                                                                                                            */
+        
+    _Ejemplo                                                                                                                                                                                   */
     int Contador2 = 1;
     do
     {
@@ -31,7 +31,7 @@
     } while (Contador <= 5);
 
 
-                                                                                                                                                /*
+                                                                                                                                                                                                   /*
  * Bucles infinitos - Al poner true, ya que si la condición es cierta, se ejecuta, no para
     - while (true)
       {

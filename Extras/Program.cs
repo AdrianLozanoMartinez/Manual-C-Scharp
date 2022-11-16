@@ -1,0 +1,1 @@
+﻿/*UNIX TIME para coger la fecha en entero para guardar datos se suele usar...*/

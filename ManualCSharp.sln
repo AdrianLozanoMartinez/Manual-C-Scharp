@@ -157,7 +157,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variable_ASCII", "Variable_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_Char", "Variables_Char\Variables_Char.csproj", "{79294E69-C806-4775-A75A-E64C265DEC35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodoss\Metodos.csproj", "{B0D596D8-635F-4268-820D-A2A908E801C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodoss\Metodos.csproj", "{B0D596D8-635F-4268-820D-A2A908E801C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extras", "Extras\Extras.csproj", "{F3029FF9-4CA3-4F1E-BC96-A9554EEC8896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjerciciosCodingameCogerSoloMayuscula", "xEjerciciosCodingameCogerSoloMayuscula\xEjerciciosCodingameCogerSoloMayuscula.csproj", "{97C25852-1B26-4232-B06D-F9A0BA3D1658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjerciciosCodingameHexaADecimal", "xEjerciciosCodingameHexaADecimal\xEjerciciosCodingameHexaADecimal.csproj", "{7E590DDF-362E-4C50-B6FF-999B61E9DC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xEjerciciosCodingameCalculadora", "xEjerciciosCodingameCalculadora\xEjerciciosCodingameCalculadora.csproj", "{91F6B112-6DA6-4DBC-B556-05DF745A96DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -477,6 +485,22 @@ Global
 		{B0D596D8-635F-4268-820D-A2A908E801C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0D596D8-635F-4268-820D-A2A908E801C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0D596D8-635F-4268-820D-A2A908E801C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3029FF9-4CA3-4F1E-BC96-A9554EEC8896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3029FF9-4CA3-4F1E-BC96-A9554EEC8896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3029FF9-4CA3-4F1E-BC96-A9554EEC8896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3029FF9-4CA3-4F1E-BC96-A9554EEC8896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C25852-1B26-4232-B06D-F9A0BA3D1658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C25852-1B26-4232-B06D-F9A0BA3D1658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C25852-1B26-4232-B06D-F9A0BA3D1658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C25852-1B26-4232-B06D-F9A0BA3D1658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E590DDF-362E-4C50-B6FF-999B61E9DC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E590DDF-362E-4C50-B6FF-999B61E9DC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E590DDF-362E-4C50-B6FF-999B61E9DC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E590DDF-362E-4C50-B6FF-999B61E9DC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F6B112-6DA6-4DBC-B556-05DF745A96DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F6B112-6DA6-4DBC-B556-05DF745A96DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F6B112-6DA6-4DBC-B556-05DF745A96DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F6B112-6DA6-4DBC-B556-05DF745A96DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

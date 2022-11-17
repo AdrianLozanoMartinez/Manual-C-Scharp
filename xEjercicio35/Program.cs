@@ -13,44 +13,23 @@ namespace xEjercicio35
         en un array de caracteres la posición que corresponda a la letra. Esta es la tabla de
         caracteres:
         */
-        static void Main(string[] args)
+        //static readonly char[] ARRAY = new char[] { 'T', 'R', 'W', 'A', 'G', 'M', ''Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E" };
+        const string ARRAY = "trwagmyfpdxbnjzsqvhlcke";
+        static void Main()
         {
             Console.WriteLine("Introduzca el número del DNI sin letra");
             int dni = int.Parse(Console.ReadLine());
-
-            string[] array = new string[] { "T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E" };
+            //ARREGLAR LUEGO CON LA FOTO DEL MOVIL
 
             int result = Rest(dni);
 
-            Search(result, array, dni);
+            Show(result);
         }
 
         static int Rest(int dni)
         {
-            int result = dni % 23;
+            int result = dni % ARRAY.Length;
             return result;
-        }
-
-        static void Search(int result, string[] array, int dni)
-        {
-            if (result > 0 && result < 22)
-            {
-                for (int i = 0; i < array.Length; i++)
-                {
-                    string name = array[i]; //[i] coge las posiciones del array nombre
-
-                    if (result == i)
-                    {
-                        Show(name, dni);
-                    }
-                }
-            }
-            else
-            {
-                Console.WriteLine("DNI no correcto");
-            }
-
-
         }
 
         static void Show(string name, int dni)

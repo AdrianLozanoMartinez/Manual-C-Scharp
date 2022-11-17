@@ -155,6 +155,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjerciciosCodingameHexaADe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xEjerciciosCodingameCalculadora", "xEjerciciosCodingameCalculadora\xEjerciciosCodingameCalculadora.csproj", "{91F6B112-6DA6-4DBC-B556-05DF745A96DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xxPersona16-11-2022", "xxPersona16-11-2022\xxPersona16-11-2022.csproj", "{071CBD1B-30C2-4DA9-9A84-6D5400FE59A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{91F6B112-6DA6-4DBC-B556-05DF745A96DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F6B112-6DA6-4DBC-B556-05DF745A96DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F6B112-6DA6-4DBC-B556-05DF745A96DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071CBD1B-30C2-4DA9-9A84-6D5400FE59A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071CBD1B-30C2-4DA9-9A84-6D5400FE59A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071CBD1B-30C2-4DA9-9A84-6D5400FE59A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071CBD1B-30C2-4DA9-9A84-6D5400FE59A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

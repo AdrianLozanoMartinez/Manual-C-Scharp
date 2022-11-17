@@ -275,3 +275,32 @@ class Solution
         }
     }
 }
+
+
+
+
+//FUERA LA MENOS RESTRICTIVA -> LA QUE MENOS PUBLIC Y LA QUE MAS PRIVATE entre medio protected
+//cuando hay un return se puede sustituir con =>
+//value.substring(0,10); -> a partir de la posicion 0 incluido, te coge 10 posiciones del 0 al 9
+
+
+
+//codingame 
+//introduce height o width y te dan en altura o ancho los * y con espacio
+int width = int.Parse(Console.ReadLine());
+int height = int.Parse(Console.ReadLine());
+
+for (int i = 0; i < height; i++)
+{
+    if (i == 0 || i == height - 1)
+    {
+        Console.WriteLine(new string('*', width));
+    }
+    else
+    {
+        if (width == 1)
+            Console.WriteLine('*');
+        else
+            Console.WriteLine("*{0}*", new string(' ', width - 2));
+    }
+}

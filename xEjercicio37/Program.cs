@@ -13,30 +13,40 @@ namespace xEjercicio37
          array. Rellena ese array con números enteros aleatorios no repetidos entre sí. Muestra por
          pantalla los números guardados.
         */
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Introduce un número entero positivo");
-            uint number = uint.Parse(Console.ReadLine());
+            Console.Write("Introduzca un número entero positivo: ");  
+            int number = int.Parse(Console.ReadLine());
 
-            int[] numbers = new int[number];
-
-            Random random = new Random();
-
-            for (int i = 1; i < numbers.Length; i++)
+            int[] listnumbers = new int[number];  
+            Random random= new Random();
+            for (int i = 0; i < number; i++) 
             {
-                int cont = 0;
-
-                while (cont < i )
+                int numberRandom = random.Next();
+                do
                 {
-                    if(numbers[i] == numbers[cont])
-                    {
-                        numbers[i] = random.Next();
-                        cont = 0;
-                    }
-                    cont++;
+                    listnumbers[i] = numberRandom;
                 }
-                Console.Write(numbers[i] + " ");
+                while (Contains(listnumbers, number));
+                
+
             }
+
+            Console.WriteLine(String.Join(", ", listnumbers));      
+        }  
+        static bool Contains(int[] array, int item)
+        {
+            bool found = false;
+
+            for (int i = 0; i < array.Length && !found; i++) 
+            {
+                int num = array[i]; 
+
+                if (num == item) found = true;
+            }
+
+            return found;
         }
     }
 }

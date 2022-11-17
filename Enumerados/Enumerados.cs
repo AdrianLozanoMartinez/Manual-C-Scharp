@@ -89,7 +89,7 @@
                   _Ejemplo                                                                                                                                                                                */
                   string viernes = "Viernes";
                   DayOfWeek Viernes = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), viernes, true);
-                  String viernesString = Viernes.ToString().ToLower(); //Convierto en string el resultado de coger lo que había en string viernes si coincide con el enumerado.
+                  string viernesString = Viernes.ToString().ToLower(); //Convierto en string el resultado de coger lo que había en string viernes si coincide con el enumerado.
                                                                        //Lo pasamos a minúscula todo para que no haya conflicto entre mayúsculas y minúsculas
                   Console.WriteLine("Mostramos el string del resultado de la búsqueda con el enumerado y la palabra string puesta -> " + viernesString); //Muestra Viernes
                                                                                                                                                                                                             /*

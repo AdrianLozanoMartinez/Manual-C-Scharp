@@ -23,7 +23,7 @@ namespace xEjercicio37
             Random random= new Random();
             for (int i = 0; i < number; i++) 
             {
-                int numberRandom = random.Next();
+                int numberRandom = random.Next(1,5);
                 do
                 {
                     listnumbers[i] = numberRandom;
@@ -35,15 +35,15 @@ namespace xEjercicio37
 
             Console.WriteLine(String.Join(", ", listnumbers));      
         }  
-        static bool Contains(int[] array, int item)
+        static bool Contains(int[] listnumbers, int number)
         {
             bool found = false;
 
-            for (int i = 0; i < array.Length && !found; i++) 
+            for (int i = 0; i < listnumbers.Length && !found; i++) 
             {
-                int num = array[i]; 
+                int num = listnumbers[i]; 
 
-                if (num == item) found = true;
+                if (num == number) found = true;
             }
 
             return found;

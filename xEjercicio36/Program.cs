@@ -8,19 +8,39 @@
          comas. El programa ordenará el array de números de menor a mayor y los mostrará por
          pantalla en dicho orden.
         */
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Introduce números y separalos entre comas");
-            string numbers = Console.ReadLine();
+            Console.WriteLine("Introduce números separados por comas");
+            string input = Console.ReadLine();
 
-            string[] array = numbers.Split(',');
+            string[] numerosDivididos = input.Split(',');
 
-            //Array.Sort(array);//NO VALE...CAMBIARLO COMO LO HICE EN EL AHORCADO
+            int[] numerosDeVerdad = new int[numerosDivididos.Length];
 
-            foreach (string local in array)
+            //ARREGLAR ESTO
+            for (int i = 0; i < numerosDeVerdad.Length; i++)
             {
-                Console.WriteLine(local);
+                numerosDivididos[i] = numerosDeVerdad[i];
             }
+
+            //METODO BURBUJA
+            int aux;
+
+            for (int i = 0; i < numerosDeVerdad.Length - 1; i++)
+            {
+                for (int j = 0; j < numerosDeVerdad.Length - 1; j++)
+                {
+                    if (numerosDeVerdad[i] > numerosDeVerdad[j + 1])
+                    {
+                        aux = numerosDeVerdad[j];
+                        numerosDeVerdad[j] = numerosDeVerdad[j + 1];
+                        numerosDeVerdad[j + 1] = aux;
+                    }
+                }
+            }
+
+            Console.WriteLine(string.Join(",", numerosDeVerdad));
+
         }
     }
 }

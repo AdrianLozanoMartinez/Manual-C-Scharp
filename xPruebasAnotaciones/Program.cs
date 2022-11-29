@@ -304,3 +304,17 @@ for (int i = 0; i < height; i++)
             Console.WriteLine("*{0}*", new string(' ', width - 2));
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
